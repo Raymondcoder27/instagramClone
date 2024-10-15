@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <header>
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
-    <div class="bg-red-200 font-bold">HelloWorld</div>
+    <div class="bg-red-200 font-bold">Hello Instagram World</div>
   </header>
 
   <RouterView />

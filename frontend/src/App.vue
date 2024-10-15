@@ -7,7 +7,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <header>
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
 
-    <div class="bg-red-200">HelloWorld</div>
+    <div class="bg-red-200 font-bold">HelloWorld</div>
   </header>
 
   <RouterView />
